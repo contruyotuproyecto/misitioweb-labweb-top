@@ -308,7 +308,7 @@ nav a:hover {
 body {
     min-height: 100vh;
     min-height: 100svh;
-    min-height: 100dvh;
+
     background-color: #030714;
 
     display: flex;
