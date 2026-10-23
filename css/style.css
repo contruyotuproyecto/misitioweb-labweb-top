@@ -279,6 +279,7 @@ nav a:hover {
 @media (max-width: 767px) {
     :root {
         scroll-padding-top: 66px;
+        overscroll-behavior-y: none;
     }
 
     .encabezado {
